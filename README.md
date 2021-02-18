@@ -1,5 +1,5 @@
 # Housing-price-prediction
-end-to-end machine learning practice
+# End-to-End Machine learning practice
 
 
 The task we are performing here is to build a model using the California census data inorder to predict housing prices.
